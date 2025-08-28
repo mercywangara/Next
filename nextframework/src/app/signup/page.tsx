@@ -1,3 +1,4 @@
+'use client'
 import Header from "../shared-components/header";
 import Navigation from "../shared-components/navigation";
 import Button from "../shared-components/button";
