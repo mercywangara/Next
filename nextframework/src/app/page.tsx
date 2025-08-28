@@ -9,6 +9,7 @@ import NewArrivals from "./homepage/components/NewArrivals";
 import Services from "./homepage/components/Services";
 import Footer from "./shared-components/footer";
 
+
 export default function Home() {
   return (
     <div>

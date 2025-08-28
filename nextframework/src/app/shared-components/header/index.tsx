@@ -1,4 +1,7 @@
-const TopBanner = () => {
+
+import Link from "next/link";
+import React from "react";
+const Header = () => {
   return (
     <div>
       <div className="w-full bg-black py-2 flex justify-center items-center relative">
@@ -11,7 +14,7 @@ const TopBanner = () => {
   );
 };
 
-export default TopBanner;
+export default Header;
 
 /*"use client"
 
