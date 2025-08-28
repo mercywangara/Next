@@ -1,3 +1,4 @@
+'use client'
 import TopBanner from "./shared-components/header";
 import Navigation from "./shared-components/navigation";
 import Offers from "./homepage/components/Offers";
